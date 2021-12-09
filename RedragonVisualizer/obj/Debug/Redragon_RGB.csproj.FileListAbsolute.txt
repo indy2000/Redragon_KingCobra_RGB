@@ -1,0 +1,12 @@
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\bin\Debug\Redragon RGB.exe.config
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\bin\Debug\Redragon RGB.exe
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\bin\Debug\Redragon RGB.pdb
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\bin\Debug\CSCore.dll
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\bin\Debug\CSCore.xml
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon_RGB.Form1.resources
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon_RGB.Properties.Resources.resources
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon_RGB.csproj.GenerateResource.cache
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon_RGB.csproj.CopyComplete
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon RGB.exe
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon RGB.pdb
+C:\Users\yagoc\Downloads\Redragon-Audio-Visualizer-master\Redragon-Audio-Visualizer-master\RedragonVisualizer\obj\Debug\Redragon_RGB.csprojAssemblyReference.cache
