@@ -25,6 +25,6 @@ All credits to D4rkTT
 ### Download Redragon Audio Viusalizer
 1- Download [Latest Release](https://github.com/indy2000/Redragon_KingCobra_RGB/releases/download/release/Redragon.King.Cobra.zip)
 
-2- Open Redragon RGB.exe` then choose color and click `Change Color`
+2- Open `Redragon RGB.exe` then choose color and click `Change Color`
 
 Enjoy ❤
